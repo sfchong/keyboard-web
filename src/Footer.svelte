@@ -18,17 +18,17 @@
 </footer>
 
 <style>
-    footer {
-        text-align: center;
-        padding-top: 10px;
-        padding-bottom: 10px;
-    }
+  footer {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
 
-    a:visited {
-        color: inherit;
-    }
+  a:visited {
+    color: inherit;
+  }
 
-    a:hover {
-        color: #509dff;
-    }
+  a:hover {
+    color: #509dff;
+  }
 </style>
