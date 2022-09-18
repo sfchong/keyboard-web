@@ -17,9 +17,10 @@ Holding down these thumb keys will go into another layer:
 
 <style>
   .container-desc {
-    width: 1100px;
+    max-width: 1100px;
     text-align: justify;
     margin: 50px auto 0 auto;
+    padding: 0 10px; 
   }
 
   p {
