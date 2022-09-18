@@ -5,3 +5,14 @@
 A website to display my QMK keyboard layout.
 
 https://keyboard.adrianchongsf.com
+
+This project is created using Vite and written in Svelte and Typescript.
+
+## Getting Started
+
+This project uses `pnpm` as package manager.
+
+```
+pnpm install
+pnpm dev
+```
