@@ -1,5 +1,5 @@
 <footer>
-  <a href="https://github.com/sfchong" title="GitHub"
+  <a href="https://github.com/sfchong/keyboard-web" title="GitHub"
     ><svg
       xmlns="http://www.w3.org/2000/svg"
       stroke="currentColor"
