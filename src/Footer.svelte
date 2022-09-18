@@ -1,5 +1,8 @@
 <footer>
-  <a href="https://github.com/sfchong/keyboard-web" title="GitHub"
+  <a
+    href="https://github.com/sfchong/keyboard-web"
+    title="GitHub"
+    target="_blank"
     ><svg
       xmlns="http://www.w3.org/2000/svg"
       stroke="currentColor"
