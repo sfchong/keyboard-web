@@ -6,12 +6,12 @@
         "Tab", "Q", "W", "F", "P", "G", "J", "L", "U", "Y", "", "", 
         "Ctrl","A", "R", "S", "T", "D", "H", "N", "E", "I", "O", "",
         "Shift", "Z", "X", "C", "V", "B", "K", "M", ",", ".", "/", "Shift",
-        "Cmd", "Space", "Esc", "Enter", "Back Space", "OSM Shift"
+        "OSM Hyper", "Space", "Esc", "Enter", "Back Space", "OSM Shift"
     ]
 
   // prettier-ignore
   const nav = [
-        "", "Cmd+`", "Alt+Tab", "", "", "", "Tab", "Page Down", "Page Up", "Home", "Caps Lock", "", 
+        "", "Cmd+`", "Alt+Tab", "Ctrl+Tab", "", "", "Tab", "Page Down", "Page Up", "Home", "Caps Lock", "", 
         "","Shift", "Ctrl", "Option", "Cmd", "", "Left", "Down", "Up", "Right", "", "",
         "", "Undo", "Cut", "Copy", "Paste", "", "", "Ins", "Delete", "End", "", "",
         "", "Release", "", "", "", ""
@@ -20,7 +20,7 @@
   // prettier-ignore
   const number = [
         "", "", "", "", "", "", "", "7", "8", "9", "", "", 
-        "","Shift", "Ctrl", "Option", "Cmd", "", "", "4", "5", "6", "", "",
+        "","Shift", "Ctrl", "Option", "Cmd", "", "`", "4", "5", "6", "", "",
         "", "", "", "", "", "", "0", "1", "2", "3", "", "",
         "", "", "Release", "", "", ""
     ]
@@ -28,8 +28,8 @@
   // prettier-ignore
   const symbol = [
         "", "!", "@", "#", "$", "[", "]", "&", "*", "|", "\\", "", 
-        "Ctrl","~", "?", ":", ";", "(", ")", "=", "'", "\"", "/", "",
-        "Shift", "_", "`", "<", ">", "{", "}", "-", "+", "%", "^", "",
+        "","~", "?", ":", ";", "(", ")", "=", "'", "\"", "/", "",
+        "", "_", "`", "<", ">", "{", "}", "-", "+", "%", "^", "",
         "", "", "", "", "Release", ""
     ]
 
